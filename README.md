@@ -1,16 +1,24 @@
 ## Hi there 👋
+Hi there, I'm Shubham 👋
+I'm a Computer Science and Engineering diploma graduate from India, interested in web development and building useful things with technology.
 
-<!--
-**DeadYasuoMain/DeadYasuoMain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About Me
+- 🌱 Currently learning JavaScript and web development.
+- 💻 Interested in frontend development.
+- 🛠️ Exploring HTML, CSS, JavaScript and PHP.
+- ♟️ Chess enthusiast.
+- 🚀 Working on improving my development skills through projects.
+Tech Stack
 
-Here are some ideas to get you started:
+HTML CSS JavaScript PHP Git GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Projects
+- Chess Wiki – A website dedicated to chess.
+- College Website – A dynamic and responsive college website.
+
+## Connect with me
+- GitHub: @DeadYasuoMain
+- Email: shubhammajhi1282004@gmail.com
+- LinkedIn :
+
+A simple beginning. Always learning, always building.
